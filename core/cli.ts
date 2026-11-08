@@ -205,4 +205,5 @@ if (!run) {
   console.log(`usage: npm run studio -- <${Object.keys(commands).join('|')}> [episode] [flags]`);
   process.exit(cmd ? 1 : 0);
 }
-run().catch(e => { console.error(`studio ${cmd}: ${e.message}`); process.exit(1); });
+// exitCode, not exit(): exiting while the ONNX runtime's threads are alive aborts with a native mutex error.
+run().catch(e => { console.error(`studio ${cmd}: ${e.message}`); process.exitCode = 1; });

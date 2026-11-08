@@ -24,8 +24,25 @@ export function resample(src: Float32Array, from: number, to = 16000): Float32Ar
 
 async function hear(audio16k: Float32Array): Promise<{ text: string; start: number; end: number }[]> {
   asr ??= await pipeline('automatic-speech-recognition', MODEL, { dtype: 'q8' as any });
-  const out = await asr(audio16k, { return_timestamps: 'word', language: 'en' });
-  return (out.chunks ?? []).map((c: any) => ({ text: String(c.text).trim(), start: c.timestamp[0], end: c.timestamp[1] ?? c.timestamp[0] }));
+  // Whisper hears 30 s at a time, so a longer take is cut at its quietest moment between 20 and 28 s (a pause between
+  // words) and each part is heard on its own, its timings shifted back into place.
+  const SR = 16000, parts: [number, number][] = [];
+  let from = 0;
+  while (audio16k.length - from > 29 * SR) {
+    let cut = from + 28 * SR, quiet = Infinity;
+    for (let i = from + 20 * SR; i < from + 28 * SR; i += 400) {
+      let e = 0; for (let j = i; j < i + 800; j++) e += audio16k[j] * audio16k[j];
+      if (e < quiet) { quiet = e; cut = i + 400; }
+    }
+    parts.push([from, cut]); from = cut;
+  }
+  parts.push([from, audio16k.length]);
+  const words: { text: string; start: number; end: number }[] = [];
+  for (const [a, b] of parts) {
+    const out = await asr(audio16k.subarray(a, b), { return_timestamps: 'word', language: 'en' });
+    for (const c of out.chunks ?? []) words.push({ text: String(c.text).trim(), start: c.timestamp[0] + a / SR, end: (c.timestamp[1] ?? c.timestamp[0]) + a / SR });
+  }
+  return words;
 }
 
 // Aligns `script` words (as written) to audio of one line; returns times relative to that audio.
