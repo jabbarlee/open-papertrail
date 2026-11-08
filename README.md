@@ -32,6 +32,17 @@ Then, in Claude Code:
 ```
 /make ink-line a story about a shared calendar
 ```
+### What happens next
+1. Claude reads the style's rules, writes ~10 ideas, and a separate critic agent keeps the best 1-3. **You pick one**
+   (or say "auto" in your request and it picks).
+2. It writes the script. **You approve it** or ask for changes.
+3. Then it works on its own: voice, drawing code, preview stills checked against the style's design rules, render, QA.
+4. You get `styles/ink-line/episodes/<date>-<slug>/<slug>.mp4` plus `caption.txt` to post with.
+
+A 25-second video takes roughly 20-40 minutes end to end on a recent Mac, most of it Claude writing and fixing the
+drawing code. Rendering is 1-3 minutes. You can stop at any point and edit any file by hand: every step is a plain
+file in the episode folder.
+
 Without any setup the voice is **Kokoro**, a small free voice model that runs on the CPU. For the much better
 **Qwen3-TTS** voices (cloned from the six voices in `voices/`), do the one-time setup in [SETUP.md](SETUP.md); on an
 Apple Silicon Mac it takes about ten minutes.
