@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-Fonts in styles/*/fonts/ are under the SIL Open Font License 1.1 (see FONTS.md and the license
-files beside them). Voices in voices/ are synthetic, generated with Qwen3-TTS VoiceDesign, and
-released under CC0 1.0 (see voices/README.md).
