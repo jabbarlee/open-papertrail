@@ -85,6 +85,11 @@ npm run studio -- list                # your episodes and the examples
   work well; photoreal doesn't.
 - **Your own lead character** in the painted style: `/new-character`.
 
+## Who made this
+Papertrail is the engine behind the videos on [@superemotion.app](https://www.instagram.com/superemotion.app/), built
+by the team behind [superemotion](https://superemotion.app/?ref=papertrail), an AI you talk to that remembers the
+people in your life. We open-sourced it because we wanted to see what other people draw with it.
+
 ## Licenses
 Code: [MIT](LICENSE). Fonts: SIL Open Font License ([FONTS.md](FONTS.md)). Voices: synthetic, designed from text
 descriptions, CC0 ([voices/README.md](voices/README.md)). Models you download at setup keep their own licenses:
