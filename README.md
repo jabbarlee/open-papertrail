@@ -23,7 +23,7 @@ script, storyboard, `scene.ts` and `sound.ts`. Read them to see how a video is b
 ## Quick start (5 minutes, no voice setup)
 
 ```bash
-git clone https://github.com/<you>/open-papertrail && cd open-papertrail
+git clone https://github.com/jabbarlee/open-papertrail.git && cd open-papertrail
 npm install
 npm run doctor          # checks Node, ffmpeg, Chrome; tells you what's missing
 claude                  # start Claude Code in this folder
