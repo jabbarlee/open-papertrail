@@ -1,0 +1,506 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 24.26,
+  "words": [
+    {
+      "text": "Why",
+      "start": 0,
+      "end": 0.22
+    },
+    {
+      "text": "do",
+      "start": 0.22,
+      "end": 0.34
+    },
+    {
+      "text": "you",
+      "start": 0.34,
+      "end": 0.42
+    },
+    {
+      "text": "only",
+      "start": 0.42,
+      "end": 0.64
+    },
+    {
+      "text": "call",
+      "start": 0.64,
+      "end": 0.9
+    },
+    {
+      "text": "your",
+      "start": 0.9,
+      "end": 1.12
+    },
+    {
+      "text": "mom",
+      "start": 1.12,
+      "end": 1.34
+    },
+    {
+      "text": "when",
+      "start": 1.34,
+      "end": 1.56
+    },
+    {
+      "text": "you're",
+      "start": 1.56,
+      "end": 1.74
+    },
+    {
+      "text": "walking",
+      "start": 1.74,
+      "end": 2.02
+    },
+    {
+      "text": "somewhere?",
+      "start": 2.02,
+      "end": 2.5
+    },
+    {
+      "text": "You",
+      "start": 3.16,
+      "end": 3.26
+    },
+    {
+      "text": "put",
+      "start": 3.26,
+      "end": 3.4
+    },
+    {
+      "text": "your",
+      "start": 3.4,
+      "end": 3.54
+    },
+    {
+      "text": "shoes",
+      "start": 3.54,
+      "end": 3.76
+    },
+    {
+      "text": "on,",
+      "start": 3.76,
+      "end": 4.06
+    },
+    {
+      "text": "step",
+      "start": 4.14,
+      "end": 4.32
+    },
+    {
+      "text": "outside,",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "text": "and",
+      "start": 4.72,
+      "end": 5.32
+    },
+    {
+      "text": "suddenly",
+      "start": 5.32,
+      "end": 5.7
+    },
+    {
+      "text": "you've",
+      "start": 5.7,
+      "end": 5.96
+    },
+    {
+      "text": "got",
+      "start": 5.96,
+      "end": 6.06
+    },
+    {
+      "text": "ten",
+      "start": 6.06,
+      "end": 6.354
+    },
+    {
+      "text": "minutes",
+      "start": 6.38,
+      "end": 6.64
+    },
+    {
+      "text": "and",
+      "start": 6.64,
+      "end": 6.84
+    },
+    {
+      "text": "a",
+      "start": 6.84,
+      "end": 6.96
+    },
+    {
+      "text": "lot",
+      "start": 6.96,
+      "end": 7.14
+    },
+    {
+      "text": "to",
+      "start": 7.14,
+      "end": 7.34
+    },
+    {
+      "text": "say.",
+      "start": 7.34,
+      "end": 7.64
+    },
+    {
+      "text": "And",
+      "start": 7.94,
+      "end": 8.22
+    },
+    {
+      "text": "it's",
+      "start": 8.22,
+      "end": 8.36
+    },
+    {
+      "text": "because",
+      "start": 8.36,
+      "end": 8.6
+    },
+    {
+      "text": "a",
+      "start": 8.6,
+      "end": 8.76
+    },
+    {
+      "text": "walk",
+      "start": 8.76,
+      "end": 9.02
+    },
+    {
+      "text": "gives",
+      "start": 9.02,
+      "end": 9.22
+    },
+    {
+      "text": "the",
+      "start": 9.22,
+      "end": 9.42
+    },
+    {
+      "text": "call",
+      "start": 9.42,
+      "end": 9.6
+    },
+    {
+      "text": "an",
+      "start": 9.6,
+      "end": 9.78
+    },
+    {
+      "text": "ending,",
+      "start": 9.78,
+      "end": 10.16
+    },
+    {
+      "text": "so",
+      "start": 10.16,
+      "end": 10.62
+    },
+    {
+      "text": "you",
+      "start": 10.62,
+      "end": 10.78
+    },
+    {
+      "text": "can",
+      "start": 10.78,
+      "end": 10.9
+    },
+    {
+      "text": "always",
+      "start": 10.9,
+      "end": 11.22
+    },
+    {
+      "text": "say",
+      "start": 11.22,
+      "end": 11.54
+    },
+    {
+      "text": "I'm",
+      "start": 11.66,
+      "end": 11.86
+    },
+    {
+      "text": "here,",
+      "start": 11.86,
+      "end": 12.22
+    },
+    {
+      "text": "got",
+      "start": 12.64,
+      "end": 12.8
+    },
+    {
+      "text": "to",
+      "start": 12.8,
+      "end": 13
+    },
+    {
+      "text": "go.",
+      "start": 13,
+      "end": 13.26
+    },
+    {
+      "text": "So",
+      "start": 14.04,
+      "end": 14.32
+    },
+    {
+      "text": "when",
+      "start": 14.32,
+      "end": 14.54
+    },
+    {
+      "text": "it's",
+      "start": 14.54,
+      "end": 14.7
+    },
+    {
+      "text": "going",
+      "start": 14.7,
+      "end": 14.86
+    },
+    {
+      "text": "well,",
+      "start": 14.86,
+      "end": 15.22
+    },
+    {
+      "text": "you",
+      "start": 15.6,
+      "end": 15.66
+    },
+    {
+      "text": "take",
+      "start": 15.66,
+      "end": 15.86
+    },
+    {
+      "text": "the",
+      "start": 15.86,
+      "end": 16.06
+    },
+    {
+      "text": "long",
+      "start": 16.06,
+      "end": 16.32
+    },
+    {
+      "text": "way",
+      "start": 16.32,
+      "end": 16.54
+    },
+    {
+      "text": "round",
+      "start": 16.54,
+      "end": 16.761
+    },
+    {
+      "text": "the",
+      "start": 16.78,
+      "end": 16.92
+    },
+    {
+      "text": "block.",
+      "start": 16.92,
+      "end": 17.2
+    },
+    {
+      "text": "And",
+      "start": 17.66,
+      "end": 18.1
+    },
+    {
+      "text": "she",
+      "start": 18.1,
+      "end": 18.28
+    },
+    {
+      "text": "knows,",
+      "start": 18.28,
+      "end": 18.54
+    },
+    {
+      "text": "because",
+      "start": 18.54,
+      "end": 19.14
+    },
+    {
+      "text": "she",
+      "start": 19.14,
+      "end": 19.34
+    },
+    {
+      "text": "always",
+      "start": 19.34,
+      "end": 19.72
+    },
+    {
+      "text": "saves",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "text": "the",
+      "start": 20.02,
+      "end": 20.24
+    },
+    {
+      "text": "big",
+      "start": 20.24,
+      "end": 20.48
+    },
+    {
+      "text": "news",
+      "start": 20.48,
+      "end": 20.74
+    },
+    {
+      "text": "for",
+      "start": 20.74,
+      "end": 20.96
+    },
+    {
+      "text": "the",
+      "start": 20.96,
+      "end": 21.08
+    },
+    {
+      "text": "last",
+      "start": 21.08,
+      "end": 21.26
+    },
+    {
+      "text": "street.",
+      "start": 21.26,
+      "end": 21.66
+    }
+  ],
+  "lines": [
+    {
+      "text": "Why do you only call your mom when you're walking somewhere?",
+      "start": 0,
+      "end": 2.5
+    },
+    {
+      "text": "You put your shoes on, step outside, and suddenly you've got ten minutes and a lot to say.",
+      "start": 3.16,
+      "end": 7.64
+    },
+    {
+      "text": "And it's because a walk gives the call an ending, so you can always say I'm here, got to go.",
+      "start": 7.94,
+      "end": 13.26
+    },
+    {
+      "text": "So when it's going well, you take the long way round the block.",
+      "start": 14.04,
+      "end": 17.2
+    },
+    {
+      "text": "And she knows, because she always saves the big news for the last street.",
+      "start": 17.66,
+      "end": 21.66
+    }
+  ],
+  "endCard": false,
+  "shots": [
+    {
+      "id": "s01",
+      "words": "Why do you only call your mom when you're walking somewhere?",
+      "draw": "walking, call timer",
+      "moves": "walking, call timer",
+      "change": "walking, call timer",
+      "start": 0,
+      "end": 3.06,
+      "firstWord": 0,
+      "lastWord": 10
+    },
+    {
+      "id": "s02",
+      "words": "You put your shoes on, step outside,",
+      "draw": "shoes on, outside",
+      "moves": "shoes on, outside",
+      "change": "shoes on, outside",
+      "start": 3.06,
+      "end": 4.62,
+      "firstWord": 11,
+      "lastWord": 17
+    },
+    {
+      "id": "s03",
+      "words": "and suddenly you've got ten minutes and a lot to say.",
+      "draw": "ten minutes, a lot to say",
+      "moves": "ten minutes, a lot to say",
+      "change": "ten minutes, a lot to say",
+      "start": 4.62,
+      "end": 7.84,
+      "firstWord": 18,
+      "lastWord": 28
+    },
+    {
+      "id": "s04",
+      "words": "And it's because a walk gives the call an ending,",
+      "draw": "the door home: an ending",
+      "moves": "the door home: an ending",
+      "change": "the door home: an ending",
+      "start": 7.84,
+      "end": 10.06,
+      "firstWord": 29,
+      "lastWord": 38
+    },
+    {
+      "id": "s05",
+      "words": "so you can always say I'm here, got to go.",
+      "draw": "I am here, got to go",
+      "moves": "I am here, got to go",
+      "change": "I am here, got to go",
+      "start": 10.06,
+      "end": 13.94,
+      "firstWord": 39,
+      "lastWord": 48
+    },
+    {
+      "id": "s06",
+      "words": "So when it's going well, you take the long way round the block.",
+      "draw": "the block from above, one more lap",
+      "moves": "the block from above, one more lap",
+      "change": "the block from above, one more lap",
+      "start": 13.94,
+      "end": 17.56,
+      "firstWord": 49,
+      "lastWord": 61
+    },
+    {
+      "id": "s07",
+      "words": "And she knows, because she always saves the",
+      "draw": "the last street, mom in the window",
+      "moves": "the last street, mom in the window",
+      "change": "the last street, mom in the window",
+      "start": 17.56,
+      "end": 20.14,
+      "firstWord": 62,
+      "lastWord": 69
+    },
+    {
+      "id": "s08",
+      "words": "big news for the last street.",
+      "draw": "the big news; you turn round",
+      "moves": "the big news; you turn round",
+      "change": "the big news; you turn round",
+      "start": 20.14,
+      "end": 24.26,
+      "firstWord": 70,
+      "lastWord": 75
+    }
+  ]
+}

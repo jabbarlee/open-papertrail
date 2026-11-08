@@ -1,0 +1,15 @@
+# The Weak Glue: a chemist tries to make a super-strong glue, makes the weakest one, and it ends up on your fridge.
+In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed. {pause=0.3}
+Spencer Silver had made the opposite. {pause=0.3}
+A glue so weak, you could peel it off and stick it back again. {pause=0.35}
+Nobody wanted it. {pause=0.25}
+For five years, he showed it to anyone who'd listen. {pause=0.4}
+Then a colleague, Art Fry, had a problem in church. {pause=0.3}
+His paper bookmarks kept falling out of his hymn book. {pause=0.35}
+So he coated them in Silver's weak glue. {pause=0.25}
+They stayed, and they peeled off clean. {pause=0.5}
+But the first time 3M sold them, in four cities, they flopped. {pause=0.3}
+They were called Press 'n Peel. {say="They were called Press and Peel." pause=0.45}
+In nineteen eighty, they came back as Post-it Notes. {pause=0.5}
+He was trying to make glue that never lets go. {pause=0.3}
+It's on your fridge because it always does.

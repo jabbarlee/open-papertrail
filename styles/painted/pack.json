@@ -1,0 +1,45 @@
+{
+  "id": "painted",
+  "name": "Painted",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "minSeconds": 10,
+    "maxSeconds": 32
+  },
+  "voice": {
+    "provider": "auto",
+    "voiceId": "basil",
+    "temperature": 0.9,
+    "takes": 3,
+    "cut": "lines",
+    "kokoro": {
+      "voiceId": "bm_lewis",
+      "speed": 1.0
+    },
+    "pieceWords": 90,
+    "speed": 0.92
+  },
+  "pace": {
+    "wordsPerSecond": 2.5,
+    "linePause": 0.35,
+    "readCharsPerSecond": 14
+  },
+  "tail": {
+    "endCardSeconds": 0,
+    "noEndCardSeconds": 1.8
+  },
+  "cutLeadSeconds": 0.12,
+  "hookMechanics": [
+    "mid-action",
+    "absurd-premise",
+    "deadpan-reveal",
+    "pov"
+  ],
+  "hashtags": [
+    "animation",
+    "deadpan"
+  ],
+  "musicBed": false
+}

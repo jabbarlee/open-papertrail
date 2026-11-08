@@ -1,0 +1,23 @@
+{
+  "format": "flat-grain",
+  "slug": "walk",
+  "date": "2026-11-08",
+  "title": "Walk",
+  "hook": "Why do you only call your mom when you're walking somewhere?",
+  "altHooks": [],
+  "caption": "who do you only call on the way somewhere?",
+  "endCard": false,
+  "gates": {
+    "pitch": "2026-11-08T14:50:59.501Z example: pitched and kept by the critic pass",
+    "script": "2026-11-08T15:00:03.367Z example: script read aloud and approved",
+    "look": "2026-11-08T15:00:03.742Z example: stills checked against DESIGN.md"
+  },
+  "onScreenHook": "Why do you only call your mom when you're walking somewhere?",
+  "hookMechanic": "felt-question",
+  "visualHook": "You walking down a night street with the phone at your ear, a gold call timer ticking over your head",
+  "hashtags": [
+    "relatable",
+    "family"
+  ],
+  "sendTo": "my mom"
+}

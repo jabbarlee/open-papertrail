@@ -1,0 +1,45 @@
+{
+  "id": "ink-line",
+  "name": "Ink Line",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "minSeconds": 16,
+    "maxSeconds": 30
+  },
+  "voice": {
+    "provider": "auto",
+    "voiceId": "jules",
+    "temperature": 1.0,
+    "takes": 3,
+    "cut": "lines",
+    "kokoro": {
+      "voiceId": "af_sarah",
+      "speed": 1.05
+    },
+    "pieceWords": 90
+  },
+  "pace": {
+    "wordsPerSecond": 3.2,
+    "linePause": 0.14
+  },
+  "tail": {
+    "endCardSeconds": 0,
+    "noEndCardSeconds": 0.8
+  },
+  "cutLeadSeconds": 0.06,
+  "hookMechanics": [
+    "mid-action",
+    "result-first",
+    "confession",
+    "question",
+    "number",
+    "callout"
+  ],
+  "hashtags": [
+    "storytime",
+    "animation"
+  ],
+  "musicBed": false
+}

@@ -1,0 +1,2 @@
+{ "fps": 24, "width": 2560, "height": 1600, "duration": 1, "words": [], "lines": [], "endCard": false,
+  "shots": [{ "id": "sheet", "words": "", "draw": "Otto character sheet", "moves": "", "change": "", "start": 0, "end": 1, "firstWord": -1, "lastWord": -1 }] }

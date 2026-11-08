@@ -1,0 +1,23 @@
+{
+  "format": "ink-line",
+  "slug": "blend",
+  "date": "2026-11-08",
+  "title": "Blend",
+  "hook": "My old roommate and I haven't spoken in two years, but we share a playlist.",
+  "altHooks": [],
+  "caption": "who are you still sharing something with?",
+  "endCard": false,
+  "gates": {
+    "pitch": "2026-11-08T14:44:12.301Z example: pitched and kept by the critic pass",
+    "script": "2026-11-08T14:48:39.937Z example: script read aloud and approved",
+    "look": "2026-11-08T14:48:40.315Z example: stills checked against DESIGN.md"
+  },
+  "onScreenHook": "two years,\none playlist",
+  "hookMechanic": "confession",
+  "visualHook": "A phone already drawing on with a playlist header of two overlapping circles, hers in ink and mine in cobalt",
+  "hashtags": [
+    "friendship",
+    "storytime"
+  ],
+  "sendTo": "the friend I stopped talking to"
+}

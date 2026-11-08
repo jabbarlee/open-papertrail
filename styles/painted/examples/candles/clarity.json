@@ -1,0 +1,49 @@
+[
+  {
+    "text": "Every Saturday, Otto buys one birthday candle.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Just one.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "The baker has never asked who it's for.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "She just rings it up. Forty cents.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Today, Otto asks for two.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Otto doesn't explain. He never does.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "At home, his cactus gets one candle every Saturday.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "This week, a small cactus grew out of the side.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "So it gets one too.",
+    "clarity": 0.8,
+    "missed": [
+      "too."
+    ]
+  }
+]

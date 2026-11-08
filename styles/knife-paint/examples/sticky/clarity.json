@@ -1,0 +1,76 @@
+[
+  {
+    "text": "In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Spencer Silver had made the opposite.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "A glue so weak, you could peel it off and stick it back again.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Nobody wanted it.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "For five years, he showed it to anyone who'd listen.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "Then a colleague, Art Fry, had a problem in church.",
+    "clarity": 0.9,
+    "missed": [
+      "Fry,"
+    ]
+  },
+  {
+    "text": "His paper bookmarks kept falling out of his hymn book.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "So he coated them in Silver's weak glue.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "They stayed, and they peeled off clean.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "But the first time 3M sold them, in four cities, they flopped.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "They were called Press 'n Peel.",
+    "clarity": 0.833,
+    "missed": [
+      "'n"
+    ]
+  },
+  {
+    "text": "In nineteen eighty, they came back as Post-it Notes.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "He was trying to make glue that never lets go.",
+    "clarity": 1,
+    "missed": []
+  },
+  {
+    "text": "It's on your fridge because it always does.",
+    "clarity": 1,
+    "missed": []
+  }
+]

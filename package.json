@@ -1,0 +1,38 @@
+{
+  "name": "open-papertrail",
+  "version": "0.1.0",
+  "description": "Vertical videos drawn entirely in code, written and directed by Claude Code, voiced on your own Mac.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "studio": "tsx core/cli.ts",
+    "doctor": "tsx core/cli.ts doctor",
+    "typecheck": "tsc --noEmit",
+    "setup:chrome": "npx --yes @puppeteer/browsers@3.2.5 install chrome-headless-shell@stable --path .cache",
+    "voice:setup": "bash voice-server/setup.sh",
+    "voice:up": "bash voice-server/run.sh"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.8.1",
+    "esbuild": "^0.28.2",
+    "ffmpeg-static": "^5.3.0",
+    "kokoro-js": "^1.2.1",
+    "puppeteer-core": "^25.14.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "ffmpeg-static@5.3.0": true,
+    "onnxruntime-node@1.21.0": true,
+    "protobufjs@7.6.6": true,
+    "sharp@0.34.5": true
+  }
+}

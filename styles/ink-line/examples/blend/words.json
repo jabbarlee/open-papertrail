@@ -1,0 +1,402 @@
+[
+  {
+    "text": "My",
+    "start": 0.12,
+    "end": 0.6
+  },
+  {
+    "text": "old",
+    "start": 0.6,
+    "end": 0.88
+  },
+  {
+    "text": "roommate",
+    "start": 0.88,
+    "end": 1.18
+  },
+  {
+    "text": "and",
+    "start": 1.18,
+    "end": 1.38
+  },
+  {
+    "text": "I",
+    "start": 1.38,
+    "end": 1.5
+  },
+  {
+    "text": "haven't",
+    "start": 1.5,
+    "end": 1.8
+  },
+  {
+    "text": "spoken",
+    "start": 1.8,
+    "end": 2.06
+  },
+  {
+    "text": "in",
+    "start": 2.06,
+    "end": 2.26
+  },
+  {
+    "text": "two",
+    "start": 2.26,
+    "end": 2.46
+  },
+  {
+    "text": "years,",
+    "start": 2.46,
+    "end": 2.7
+  },
+  {
+    "text": "but",
+    "start": 2.7,
+    "end": 2.94
+  },
+  {
+    "text": "we",
+    "start": 2.94,
+    "end": 3.12
+  },
+  {
+    "text": "share",
+    "start": 3.12,
+    "end": 3.34
+  },
+  {
+    "text": "a",
+    "start": 3.34,
+    "end": 3.48
+  },
+  {
+    "text": "playlist.",
+    "start": 3.48,
+    "end": 3.84
+  },
+  {
+    "text": "It's",
+    "start": 4.3,
+    "end": 4.58
+  },
+  {
+    "text": "a",
+    "start": 4.58,
+    "end": 4.6
+  },
+  {
+    "text": "Spotify",
+    "start": 4.6,
+    "end": 5.04
+  },
+  {
+    "text": "Blend,",
+    "start": 5.04,
+    "end": 5.44
+  },
+  {
+    "text": "so",
+    "start": 6.02,
+    "end": 6.1
+  },
+  {
+    "text": "every",
+    "start": 6.1,
+    "end": 6.46
+  },
+  {
+    "text": "morning",
+    "start": 6.46,
+    "end": 6.78
+  },
+  {
+    "text": "it",
+    "start": 6.78,
+    "end": 6.94
+  },
+  {
+    "text": "mixes",
+    "start": 6.94,
+    "end": 7.18
+  },
+  {
+    "text": "her",
+    "start": 7.18,
+    "end": 7.42
+  },
+  {
+    "text": "songs",
+    "start": 7.42,
+    "end": 7.66
+  },
+  {
+    "text": "with",
+    "start": 7.66,
+    "end": 7.9
+  },
+  {
+    "text": "mine.",
+    "start": 7.9,
+    "end": 8.2
+  },
+  {
+    "text": "Last",
+    "start": 8.64,
+    "end": 8.92
+  },
+  {
+    "text": "month",
+    "start": 8.92,
+    "end": 9.22
+  },
+  {
+    "text": "her",
+    "start": 9.22,
+    "end": 9.52
+  },
+  {
+    "text": "half",
+    "start": 9.52,
+    "end": 9.78
+  },
+  {
+    "text": "was",
+    "start": 9.78,
+    "end": 9.94
+  },
+  {
+    "text": "all",
+    "start": 9.94,
+    "end": 10.26
+  },
+  {
+    "text": "sad",
+    "start": 10.26,
+    "end": 10.54
+  },
+  {
+    "text": "songs",
+    "start": 10.54,
+    "end": 10.92
+  },
+  {
+    "text": "at",
+    "start": 10.92,
+    "end": 11.06
+  },
+  {
+    "text": "three",
+    "start": 11.06,
+    "end": 11.24
+  },
+  {
+    "text": "in",
+    "start": 11.24,
+    "end": 11.36
+  },
+  {
+    "text": "the",
+    "start": 11.36,
+    "end": 11.44
+  },
+  {
+    "text": "morning.",
+    "start": 11.44,
+    "end": 11.76
+  },
+  {
+    "text": "I",
+    "start": 12.16,
+    "end": 12.42
+  },
+  {
+    "text": "couldn't",
+    "start": 12.42,
+    "end": 12.68
+  },
+  {
+    "text": "text",
+    "start": 12.68,
+    "end": 13
+  },
+  {
+    "text": "her,",
+    "start": 13,
+    "end": 13.24
+  },
+  {
+    "text": "so",
+    "start": 13.74,
+    "end": 13.82
+  },
+  {
+    "text": "I",
+    "start": 13.82,
+    "end": 13.92
+  },
+  {
+    "text": "played",
+    "start": 13.92,
+    "end": 14.1
+  },
+  {
+    "text": "our",
+    "start": 14.1,
+    "end": 14.28
+  },
+  {
+    "text": "road",
+    "start": 14.28,
+    "end": 14.46
+  },
+  {
+    "text": "trip",
+    "start": 14.46,
+    "end": 14.66
+  },
+  {
+    "text": "song",
+    "start": 14.66,
+    "end": 14.92
+  },
+  {
+    "text": "forty",
+    "start": 14.92,
+    "end": 15.233
+  },
+  {
+    "text": "times.",
+    "start": 15.26,
+    "end": 15.74
+  },
+  {
+    "text": "Next",
+    "start": 16.24,
+    "end": 16.4
+  },
+  {
+    "text": "morning,",
+    "start": 16.4,
+    "end": 16.78
+  },
+  {
+    "text": "it",
+    "start": 16.78,
+    "end": 16.98
+  },
+  {
+    "text": "was",
+    "start": 16.98,
+    "end": 17.08
+  },
+  {
+    "text": "the",
+    "start": 17.08,
+    "end": 17.24
+  },
+  {
+    "text": "first",
+    "start": 17.24,
+    "end": 17.46
+  },
+  {
+    "text": "song",
+    "start": 17.46,
+    "end": 17.7
+  },
+  {
+    "text": "in",
+    "start": 17.7,
+    "end": 17.84
+  },
+  {
+    "text": "the",
+    "start": 17.84,
+    "end": 17.94
+  },
+  {
+    "text": "Blend.",
+    "start": 17.94,
+    "end": 18.18
+  },
+  {
+    "text": "She'd",
+    "start": 18.66,
+    "end": 18.86
+  },
+  {
+    "text": "played",
+    "start": 18.86,
+    "end": 19.04
+  },
+  {
+    "text": "it",
+    "start": 19.04,
+    "end": 19.2
+  },
+  {
+    "text": "forty-one",
+    "start": 19.2,
+    "end": 19.55
+  },
+  {
+    "text": "times.",
+    "start": 19.58,
+    "end": 20.02
+  },
+  {
+    "text": "We",
+    "start": 20.62,
+    "end": 20.78
+  },
+  {
+    "text": "still",
+    "start": 20.78,
+    "end": 21.02
+  },
+  {
+    "text": "haven't",
+    "start": 21.02,
+    "end": 21.3
+  },
+  {
+    "text": "said",
+    "start": 21.3,
+    "end": 21.42
+  },
+  {
+    "text": "a",
+    "start": 21.42,
+    "end": 21.56
+  },
+  {
+    "text": "word.",
+    "start": 21.56,
+    "end": 21.82
+  },
+  {
+    "text": "Our",
+    "start": 22.32,
+    "end": 22.54
+  },
+  {
+    "text": "match",
+    "start": 22.54,
+    "end": 22.84
+  },
+  {
+    "text": "is",
+    "start": 22.84,
+    "end": 23.02
+  },
+  {
+    "text": "ninety-eight",
+    "start": 23.02,
+    "end": 23.718
+  },
+  {
+    "text": "percent.",
+    "start": 23.779,
+    "end": 24.244
+  }
+]

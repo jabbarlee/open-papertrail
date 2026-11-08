@@ -1,0 +1,11 @@
+# Candles. Third-person narrator (deadpan, documentary). One spoken line per row. The baker's line is shown, not spoken.
+Every Saturday, Otto buys one birthday candle. {pause=0.35}
+Just one. {pause=0.4}
+The baker has never asked who it's for. {pause=0.3}
+She just rings it up. Forty cents. {pause=0.4}
+Today, Otto asks for two. {pause=0.5}
+Whose birthday? {speaker="baker" hold=1.4}
+Otto doesn't explain. He never does. {pause=0.5}
+At home, his cactus gets one candle every Saturday. {pause=0.4}
+This week, a small cactus grew out of the side. {pause=0.6}
+So it gets one too. {pause=0.4}

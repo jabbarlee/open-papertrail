@@ -1,0 +1,19 @@
+{
+  "shots": [
+    { "id": "s01", "words": "In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed.", "draw": "1960s lab: a big painted bottle labelled ADHESIVE, Silver at the bench pressing two wooden blocks together", "moves": "slow push; on 'failed' the top block drops off", "change": "hook" },
+    { "id": "s02", "words": "Spencer Silver had made the opposite.", "draw": "Silver in profile, closer, looks down at the block in his hand", "moves": "head tilts on 'opposite'", "change": "closer" },
+    { "id": "s03", "words": "A glue so weak, you could peel it off and stick it back again.", "draw": "Insert: a paper slip on a plain wall peels off and sticks back, twice", "moves": "peel and stick on the words", "change": "insert" },
+    { "id": "s04", "words": "Nobody wanted it.", "draw": "Office: Silver holds out the bottle, a colleague walks past without looking", "moves": "walk past", "change": "wide" },
+    { "id": "s05", "words": "For five years, he showed it to anyone who'd listen.", "draw": "Same office: colleagues walk past one after another, Silver keeps holding out the bottle; painted year tags tick 1968 to 1973", "moves": "walkers cross, arm lifts each time", "change": "time passes" },
+    { "id": "s06", "words": "Then a colleague, Art Fry, had a problem in church.", "draw": "A church: stone wall, a pew; Fry stands holding a red hymn book", "moves": "Fry walks in, opens the book", "change": "new place" },
+    { "id": "s07", "words": "His paper bookmarks kept falling out of his hymn book.", "draw": "Insert: the open hymn book, paper slips slide out and fall", "moves": "slips fall", "change": "insert" },
+    { "id": "s08", "words": "So he coated them in Silver's weak glue.", "draw": "Insert: a yellow paper slip; a knife spreads a strip of glue along its top", "moves": "the knife drags across on 'coated'", "change": "insert, the turn" },
+    { "id": "s09", "words": "They stayed, and they peeled off clean.", "draw": "The hymn book open, a yellow slip stuck to the page; it lifts off clean", "moves": "the slip peels on 'peeled'", "change": "payoff of the idea" },
+    { "id": "s10", "words": "But the first time 3M sold them, in four cities, they flopped.", "draw": "A shop counter with a pyramid of small boxes; a shopper walks past without looking", "moves": "shopper crosses; on 'flopped' the top box tips over", "change": "the loop" },
+    { "id": "s11", "words": "They were called Press 'n Peel.", "draw": "Insert: one box, the label PRESS 'N PEEL", "moves": "slow push", "change": "insert" },
+    { "id": "s12", "words": "In nineteen eighty, they came back as Post-it Notes.", "draw": "The plain wall: yellow notes bloom across it, one after another", "moves": "notes land one by one", "change": "scale: one note to many" },
+    { "id": "s13", "words": "He was trying to make glue that never lets go.", "draw": "Back to the lab: Silver presses the blocks together again", "moves": "push", "change": "callback" },
+    { "id": "s14", "words": "It's on your fridge because it always does.", "draw": "A kitchen: a cream fridge covered in yellow notes; one drops and is stuck back", "moves": "a note falls and returns", "change": "button" },
+    { "id": "s15", "words": "", "seconds": 1.6, "draw": "The fridge, the notes, still", "moves": "slow push", "change": "loop" }
+  ]
+}

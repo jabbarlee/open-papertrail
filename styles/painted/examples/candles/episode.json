@@ -1,0 +1,23 @@
+{
+  "format": "painted",
+  "slug": "candles",
+  "date": "2026-11-08",
+  "title": "Candles",
+  "hook": "Every Saturday, Otto buys one birthday candle.",
+  "altHooks": [],
+  "caption": "what do you buy every week without explaining 🕯️",
+  "endCard": false,
+  "gates": {
+    "pitch": "2026-11-08T15:15:22.366Z example: pitched and kept by the critic pass",
+    "script": "2026-11-08T15:19:55.461Z example: script read aloud and approved",
+    "look": "2026-11-08T15:19:55.851Z example: stills checked against DESIGN.md"
+  },
+  "onScreenHook": "",
+  "hookMechanic": "mystery",
+  "visualHook": "Over Otto's shoulder at a bakery counter, one striped birthday candle held up big, the baker watching",
+  "hashtags": [
+    "animation",
+    "deadpan"
+  ],
+  "sendTo": "the friend with too many plants"
+}

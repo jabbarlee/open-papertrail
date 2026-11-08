@@ -1,0 +1,28 @@
+{
+  "shots": [
+    { "id": "s01", "words": "My old roommate and I haven't spoken in two years, but we share a playlist.", "title": "two years,\none playlist",
+      "draw": "A phone, big, with a playlist header: two overlapping circles (hers ink, mine cobalt) and track rows writing on.",
+      "moves": "The phone is already drawing on at frame 0; the two circles slide into overlap; rows write on one by one.", "change": "opening: the object, already moving" },
+    { "id": "s02", "words": "It's a Spotify Blend, so every morning it mixes her songs with mine.",
+      "draw": "Two columns of song rows, hers in ink from the left, mine in cobalt from the right, braiding into one list under a small sun.",
+      "moves": "Rows slide in from both edges and interleave into one column on 'mixes'.", "change": "scale: one phone -> the mechanism" },
+    { "id": "s03", "words": "Last month her half was all sad songs at three in the morning.",
+      "draw": "Only her rows, in ink, each stamped 3:04 am, 3:11 am...; a thin moon at the top; the rows fade soft.",
+      "moves": "Timestamps write on down the list, the moon draws on.", "change": "object: her half, at night" },
+    { "id": "s04", "words": "I couldn't text her, so I played our road trip song forty times.",
+      "draw": "An empty message field with a blinking cursor; below it a cobalt play counter ticking to 40 while a cobalt line runs off like a road.",
+      "moves": "Cursor blinks, nothing typed; on 'played' the counter ticks up fast and the road line runs across the frame.", "change": "object: the unsent text -> the counter" },
+    { "id": "s05", "words": "Next morning, it was the first song in the Blend.", "hold": 0.4,
+      "draw": "The Blend list again; the top row is the road trip song, washed in cobalt, a small sun beside it.",
+      "moves": "The top row drops in and lands; the wash spreads under it.", "change": "back to the list, one row lit" },
+    { "id": "s06", "words": "She'd played it forty-one times.",
+      "draw": "Two play counters side by side: mine 40 in cobalt, hers 41 in ink, hers bigger.",
+      "moves": "Her counter writes on and ticks past mine.", "change": "turn: her number" },
+    { "id": "s07", "words": "We still haven't said a word. Our match is ninety-eight percent.",
+      "draw": "An empty chat: 'no messages' in soft; then the two circles slide almost fully together with '98% match' writing on.",
+      "moves": "The chat stays empty; on 'match' the circles overlap and the number writes on.", "change": "payoff: the match badge" },
+    { "id": "s08", "words": "", "seconds": 1.0,
+      "draw": "Back to the s01 framing: the phone and the playlist header, the circles at 98%.",
+      "moves": "Rows write on again, looping into frame 0.", "change": "loop" }
+  ]
+}

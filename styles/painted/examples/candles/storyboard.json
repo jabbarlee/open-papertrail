@@ -1,0 +1,15 @@
+{
+  "shots": [
+    { "id": "s01", "words": "Every Saturday, Otto buys one birthday candle.", "draw": "Bakery counter, over Otto's shoulder: one striped birthday candle held up big in the foreground, Mae the baker behind the counter, a cake stand and a sign 'CANDLES 40c'", "moves": "snap zoom on frame 0, slow push", "change": "hook" },
+    { "id": "s02", "words": "Just one.", "draw": "Insert, top-down: the empty counter, one candle laid on it, a coin", "moves": "the candle rolls a little and stops", "change": "insert" },
+    { "id": "s03", "words": "The baker has never asked who it's for.", "draw": "Mae MCU behind the counter, flat face, eyes on the candle then on Otto", "moves": "slow push, a side-eye", "change": "reaction" },
+    { "id": "s04", "words": "She just rings it up. Forty cents.", "draw": "Insert: the old till, its window flips to 0.40; her finger presses a key", "moves": "punch-in on 'Forty'", "change": "insert" },
+    { "id": "s05", "words": "Today, Otto asks for two.", "draw": "Wide of the bakery: Otto at the counter holds up two fingers... (pose point) two candles now on the counter", "moves": "punch-in on 'two'", "change": "turn" },
+    { "id": "s06", "words": "Whose birthday?", "draw": "Mae close, eyes narrowed, the handwritten caption 'Whose birthday?'", "moves": "locked, a slow blink", "change": "reaction close-up" },
+    { "id": "s07", "words": "Otto doesn't explain. He never does.", "draw": "Otto close, front, deadpan, a two-drawing blink", "moves": "push", "change": "reverse CU" },
+    { "id": "s08", "words": "At home, his cactus gets one candle every Saturday.", "draw": "Otto's windowsill at home: a cactus in a clay pot with one lit birthday candle stuck in the soil", "moves": "flame flickers, slow push", "change": "new place: home" },
+    { "id": "s09", "words": "This week, a small cactus grew out of the side.", "draw": "Insert: a tiny cactus pup bulging out of the big one's side", "moves": "punch-in on 'small'", "change": "insert, the reveal" },
+    { "id": "s10", "words": "So it gets one too.", "draw": "Both cacti, each with a lit candle; Otto's head rises into frame below, watching", "moves": "locked, flames flicker", "change": "payoff" },
+    { "id": "s11", "words": "", "seconds": 1.8, "draw": "Button: Otto at the windowsill, deadpan, both flames flicker; a slow blink", "moves": "locked", "change": "loop" }
+  ]
+}

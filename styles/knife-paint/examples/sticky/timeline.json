@@ -1,0 +1,889 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 42.96666666666667,
+  "words": [
+    {
+      "text": "In",
+      "start": 0.12,
+      "end": 0.38
+    },
+    {
+      "text": "nineteen",
+      "start": 0.38,
+      "end": 0.96
+    },
+    {
+      "text": "sixty-eight,",
+      "start": 1.01,
+      "end": 1.718
+    },
+    {
+      "text": "a",
+      "start": 1.78,
+      "end": 1.84
+    },
+    {
+      "text": "3M",
+      "start": 1.84,
+      "end": 2.46
+    },
+    {
+      "text": "chemist",
+      "start": 2.46,
+      "end": 2.92
+    },
+    {
+      "text": "tried",
+      "start": 2.92,
+      "end": 3.16
+    },
+    {
+      "text": "to",
+      "start": 3.16,
+      "end": 3.32
+    },
+    {
+      "text": "make",
+      "start": 3.32,
+      "end": 3.44
+    },
+    {
+      "text": "an",
+      "start": 3.44,
+      "end": 3.56
+    },
+    {
+      "text": "extremely",
+      "start": 3.56,
+      "end": 4.14
+    },
+    {
+      "text": "strong",
+      "start": 4.14,
+      "end": 4.7
+    },
+    {
+      "text": "glue,",
+      "start": 4.7,
+      "end": 4.94
+    },
+    {
+      "text": "and",
+      "start": 4.94,
+      "end": 5.28
+    },
+    {
+      "text": "failed.",
+      "start": 5.28,
+      "end": 5.72
+    },
+    {
+      "text": "Spencer",
+      "start": 6.2,
+      "end": 6.54
+    },
+    {
+      "text": "Silver",
+      "start": 6.54,
+      "end": 6.86
+    },
+    {
+      "text": "had",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "text": "made",
+      "start": 7.08,
+      "end": 7.24
+    },
+    {
+      "text": "the",
+      "start": 7.24,
+      "end": 7.42
+    },
+    {
+      "text": "opposite.",
+      "start": 7.42,
+      "end": 7.8
+    },
+    {
+      "text": "A",
+      "start": 8.4,
+      "end": 8.58
+    },
+    {
+      "text": "glue",
+      "start": 8.58,
+      "end": 8.82
+    },
+    {
+      "text": "so",
+      "start": 8.82,
+      "end": 9.14
+    },
+    {
+      "text": "weak,",
+      "start": 9.14,
+      "end": 9.48
+    },
+    {
+      "text": "you",
+      "start": 9.76,
+      "end": 9.86
+    },
+    {
+      "text": "could",
+      "start": 9.86,
+      "end": 10
+    },
+    {
+      "text": "peel",
+      "start": 10,
+      "end": 10.2
+    },
+    {
+      "text": "it",
+      "start": 10.2,
+      "end": 10.36
+    },
+    {
+      "text": "off",
+      "start": 10.36,
+      "end": 10.58
+    },
+    {
+      "text": "and",
+      "start": 10.58,
+      "end": 10.98
+    },
+    {
+      "text": "stick",
+      "start": 10.98,
+      "end": 11.22
+    },
+    {
+      "text": "it",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "text": "back",
+      "start": 11.36,
+      "end": 11.52
+    },
+    {
+      "text": "again.",
+      "start": 11.52,
+      "end": 11.9
+    },
+    {
+      "text": "Nobody",
+      "start": 12.46,
+      "end": 12.78
+    },
+    {
+      "text": "wanted",
+      "start": 12.78,
+      "end": 13.22
+    },
+    {
+      "text": "it.",
+      "start": 13.22,
+      "end": 13.44
+    },
+    {
+      "text": "For",
+      "start": 13.86,
+      "end": 14.02
+    },
+    {
+      "text": "five",
+      "start": 14.02,
+      "end": 14.42
+    },
+    {
+      "text": "years,",
+      "start": 14.42,
+      "end": 14.72
+    },
+    {
+      "text": "he",
+      "start": 14.72,
+      "end": 14.92
+    },
+    {
+      "text": "showed",
+      "start": 14.92,
+      "end": 15.14
+    },
+    {
+      "text": "it",
+      "start": 15.14,
+      "end": 15.26
+    },
+    {
+      "text": "to",
+      "start": 15.26,
+      "end": 15.38
+    },
+    {
+      "text": "anyone",
+      "start": 15.38,
+      "end": 15.7
+    },
+    {
+      "text": "who'd",
+      "start": 15.7,
+      "end": 16
+    },
+    {
+      "text": "listen.",
+      "start": 16,
+      "end": 16.24
+    },
+    {
+      "text": "Then",
+      "start": 16.78,
+      "end": 16.94
+    },
+    {
+      "text": "a",
+      "start": 16.94,
+      "end": 17.08
+    },
+    {
+      "text": "colleague,",
+      "start": 17.08,
+      "end": 17.5
+    },
+    {
+      "text": "Art",
+      "start": 17.64,
+      "end": 17.84
+    },
+    {
+      "text": "Fry,",
+      "start": 17.84,
+      "end": 18.282
+    },
+    {
+      "text": "had",
+      "start": 18.32,
+      "end": 18.36
+    },
+    {
+      "text": "a",
+      "start": 18.36,
+      "end": 18.44
+    },
+    {
+      "text": "problem",
+      "start": 18.44,
+      "end": 18.74
+    },
+    {
+      "text": "in",
+      "start": 18.74,
+      "end": 18.88
+    },
+    {
+      "text": "church.",
+      "start": 18.88,
+      "end": 19.3
+    },
+    {
+      "text": "His",
+      "start": 19.6,
+      "end": 19.76
+    },
+    {
+      "text": "paper",
+      "start": 19.76,
+      "end": 20.08
+    },
+    {
+      "text": "bookmarks",
+      "start": 20.08,
+      "end": 20.68
+    },
+    {
+      "text": "kept",
+      "start": 20.68,
+      "end": 20.96
+    },
+    {
+      "text": "falling",
+      "start": 20.96,
+      "end": 21.3
+    },
+    {
+      "text": "out",
+      "start": 21.3,
+      "end": 21.56
+    },
+    {
+      "text": "of",
+      "start": 21.56,
+      "end": 21.68
+    },
+    {
+      "text": "his",
+      "start": 21.68,
+      "end": 21.86
+    },
+    {
+      "text": "hymn",
+      "start": 21.86,
+      "end": 22.12
+    },
+    {
+      "text": "book.",
+      "start": 22.12,
+      "end": 22.3
+    },
+    {
+      "text": "So",
+      "start": 22.65,
+      "end": 22.87
+    },
+    {
+      "text": "he",
+      "start": 22.87,
+      "end": 23.01
+    },
+    {
+      "text": "coated",
+      "start": 23.01,
+      "end": 23.31
+    },
+    {
+      "text": "them",
+      "start": 23.31,
+      "end": 23.55
+    },
+    {
+      "text": "in",
+      "start": 23.55,
+      "end": 23.69
+    },
+    {
+      "text": "Silver's",
+      "start": 23.69,
+      "end": 24.23
+    },
+    {
+      "text": "weak",
+      "start": 24.23,
+      "end": 24.41
+    },
+    {
+      "text": "glue.",
+      "start": 24.41,
+      "end": 24.79
+    },
+    {
+      "text": "They",
+      "start": 25.31,
+      "end": 25.43
+    },
+    {
+      "text": "stayed,",
+      "start": 25.43,
+      "end": 25.79
+    },
+    {
+      "text": "and",
+      "start": 25.79,
+      "end": 26.03
+    },
+    {
+      "text": "they",
+      "start": 26.03,
+      "end": 26.17
+    },
+    {
+      "text": "peeled",
+      "start": 26.17,
+      "end": 26.49
+    },
+    {
+      "text": "off",
+      "start": 26.49,
+      "end": 26.77
+    },
+    {
+      "text": "clean.",
+      "start": 26.77,
+      "end": 27.07
+    },
+    {
+      "text": "But",
+      "start": 27.57,
+      "end": 27.65
+    },
+    {
+      "text": "the",
+      "start": 27.65,
+      "end": 27.77
+    },
+    {
+      "text": "first",
+      "start": 27.77,
+      "end": 28.05
+    },
+    {
+      "text": "time",
+      "start": 28.05,
+      "end": 28.29
+    },
+    {
+      "text": "3M",
+      "start": 28.29,
+      "end": 28.79
+    },
+    {
+      "text": "sold",
+      "start": 28.79,
+      "end": 29.09
+    },
+    {
+      "text": "them,",
+      "start": 29.09,
+      "end": 29.41
+    },
+    {
+      "text": "in",
+      "start": 29.41,
+      "end": 29.75
+    },
+    {
+      "text": "four",
+      "start": 29.75,
+      "end": 29.99
+    },
+    {
+      "text": "cities,",
+      "start": 29.99,
+      "end": 30.33
+    },
+    {
+      "text": "they",
+      "start": 30.33,
+      "end": 30.61
+    },
+    {
+      "text": "flopped.",
+      "start": 30.61,
+      "end": 31.09
+    },
+    {
+      "text": "They",
+      "start": 31.47,
+      "end": 31.67
+    },
+    {
+      "text": "were",
+      "start": 31.67,
+      "end": 31.77
+    },
+    {
+      "text": "called",
+      "start": 31.77,
+      "end": 32.01
+    },
+    {
+      "text": "Press",
+      "start": 32.01,
+      "end": 32.35
+    },
+    {
+      "text": "'n",
+      "start": 32.35,
+      "end": 32.681
+    },
+    {
+      "text": "Peel.",
+      "start": 32.71,
+      "end": 33.01
+    },
+    {
+      "text": "In",
+      "start": 33.57,
+      "end": 33.65
+    },
+    {
+      "text": "nineteen",
+      "start": 33.65,
+      "end": 34.023
+    },
+    {
+      "text": "eighty,",
+      "start": 34.055,
+      "end": 34.345
+    },
+    {
+      "text": "they",
+      "start": 34.37,
+      "end": 34.47
+    },
+    {
+      "text": "came",
+      "start": 34.47,
+      "end": 34.65
+    },
+    {
+      "text": "back",
+      "start": 34.65,
+      "end": 34.89
+    },
+    {
+      "text": "as",
+      "start": 34.89,
+      "end": 35.13
+    },
+    {
+      "text": "Post-it",
+      "start": 35.13,
+      "end": 35.498
+    },
+    {
+      "text": "Notes.",
+      "start": 35.53,
+      "end": 35.73
+    },
+    {
+      "text": "He",
+      "start": 36.23,
+      "end": 36.33
+    },
+    {
+      "text": "was",
+      "start": 36.33,
+      "end": 36.47
+    },
+    {
+      "text": "trying",
+      "start": 36.47,
+      "end": 36.73
+    },
+    {
+      "text": "to",
+      "start": 36.73,
+      "end": 36.91
+    },
+    {
+      "text": "make",
+      "start": 36.91,
+      "end": 37.09
+    },
+    {
+      "text": "glue",
+      "start": 37.09,
+      "end": 37.37
+    },
+    {
+      "text": "that",
+      "start": 37.37,
+      "end": 37.61
+    },
+    {
+      "text": "never",
+      "start": 37.61,
+      "end": 37.91
+    },
+    {
+      "text": "lets",
+      "start": 37.91,
+      "end": 38.15
+    },
+    {
+      "text": "go.",
+      "start": 38.15,
+      "end": 38.47
+    },
+    {
+      "text": "It's",
+      "start": 39.07,
+      "end": 39.47
+    },
+    {
+      "text": "on",
+      "start": 39.47,
+      "end": 39.57
+    },
+    {
+      "text": "your",
+      "start": 39.57,
+      "end": 39.73
+    },
+    {
+      "text": "fridge",
+      "start": 39.73,
+      "end": 40.03
+    },
+    {
+      "text": "because",
+      "start": 40.03,
+      "end": 40.39
+    },
+    {
+      "text": "it",
+      "start": 40.39,
+      "end": 40.53
+    },
+    {
+      "text": "always",
+      "start": 40.53,
+      "end": 40.83
+    },
+    {
+      "text": "does.",
+      "start": 40.83,
+      "end": 41.15
+    }
+  ],
+  "lines": [
+    {
+      "text": "In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed.",
+      "start": 0.12,
+      "end": 5.72
+    },
+    {
+      "text": "Spencer Silver had made the opposite.",
+      "start": 6.2,
+      "end": 7.8
+    },
+    {
+      "text": "A glue so weak, you could peel it off and stick it back again.",
+      "start": 8.4,
+      "end": 11.9
+    },
+    {
+      "text": "Nobody wanted it.",
+      "start": 12.46,
+      "end": 13.44
+    },
+    {
+      "text": "For five years, he showed it to anyone who'd listen.",
+      "start": 13.86,
+      "end": 16.24
+    },
+    {
+      "text": "Then a colleague, Art Fry, had a problem in church.",
+      "start": 16.78,
+      "end": 19.3
+    },
+    {
+      "text": "His paper bookmarks kept falling out of his hymn book.",
+      "start": 19.6,
+      "end": 22.3
+    },
+    {
+      "text": "So he coated them in Silver's weak glue.",
+      "start": 22.65,
+      "end": 24.79
+    },
+    {
+      "text": "They stayed, and they peeled off clean.",
+      "start": 25.31,
+      "end": 27.07
+    },
+    {
+      "text": "But the first time 3M sold them, in four cities, they flopped.",
+      "start": 27.57,
+      "end": 31.09
+    },
+    {
+      "text": "They were called Press 'n Peel.",
+      "start": 31.47,
+      "end": 33.01
+    },
+    {
+      "text": "In nineteen eighty, they came back as Post-it Notes.",
+      "start": 33.57,
+      "end": 35.73
+    },
+    {
+      "text": "He was trying to make glue that never lets go.",
+      "start": 36.23,
+      "end": 38.47
+    },
+    {
+      "text": "It's on your fridge because it always does.",
+      "start": 39.07,
+      "end": 41.15
+    }
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "words": "In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed.",
+      "draw": "1960s lab: a big painted bottle labelled ADHESIVE, Silver at the bench pressing two wooden blocks together",
+      "moves": "slow push; on 'failed' the top block drops off",
+      "change": "hook",
+      "start": 0,
+      "end": 6.066666666666666,
+      "firstWord": 0,
+      "lastWord": 14
+    },
+    {
+      "id": "s02",
+      "words": "Spencer Silver had made the opposite.",
+      "draw": "Silver in profile, closer, looks down at the block in his hand",
+      "moves": "head tilts on 'opposite'",
+      "change": "closer",
+      "start": 6.066666666666666,
+      "end": 8.266666666666667,
+      "firstWord": 15,
+      "lastWord": 20
+    },
+    {
+      "id": "s03",
+      "words": "A glue so weak, you could peel it off and stick it back again.",
+      "draw": "Insert: a paper slip on a plain wall peels off and sticks back, twice",
+      "moves": "peel and stick on the words",
+      "change": "insert",
+      "start": 8.266666666666667,
+      "end": 12.333333333333334,
+      "firstWord": 21,
+      "lastWord": 34
+    },
+    {
+      "id": "s04",
+      "words": "Nobody wanted it.",
+      "draw": "Office: Silver holds out the bottle, a colleague walks past without looking",
+      "moves": "walk past",
+      "change": "wide",
+      "start": 12.333333333333334,
+      "end": 13.733333333333333,
+      "firstWord": 35,
+      "lastWord": 37
+    },
+    {
+      "id": "s05",
+      "words": "For five years, he showed it to anyone who'd listen.",
+      "draw": "Same office: colleagues walk past one after another, Silver keeps holding out the bottle; painted year tags tick 1968 to 1973",
+      "moves": "walkers cross, arm lifts each time",
+      "change": "time passes",
+      "start": 13.733333333333333,
+      "end": 16.666666666666668,
+      "firstWord": 38,
+      "lastWord": 47
+    },
+    {
+      "id": "s06",
+      "words": "Then a colleague, Art Fry, had a problem in church.",
+      "draw": "A church: stone wall, a pew; Fry stands holding a red hymn book",
+      "moves": "Fry walks in, opens the book",
+      "change": "new place",
+      "start": 16.666666666666668,
+      "end": 19.466666666666665,
+      "firstWord": 48,
+      "lastWord": 57
+    },
+    {
+      "id": "s07",
+      "words": "His paper bookmarks kept falling out of his hymn book.",
+      "draw": "Insert: the open hymn book, paper slips slide out and fall",
+      "moves": "slips fall",
+      "change": "insert",
+      "start": 19.466666666666665,
+      "end": 22.533333333333335,
+      "firstWord": 58,
+      "lastWord": 67
+    },
+    {
+      "id": "s08",
+      "words": "So he coated them in Silver's weak glue.",
+      "draw": "Insert: a yellow paper slip; a knife spreads a strip of glue along its top",
+      "moves": "the knife drags across on 'coated'",
+      "change": "insert, the turn",
+      "start": 22.533333333333335,
+      "end": 25.2,
+      "firstWord": 68,
+      "lastWord": 75
+    },
+    {
+      "id": "s09",
+      "words": "They stayed, and they peeled off clean.",
+      "draw": "The hymn book open, a yellow slip stuck to the page; it lifts off clean",
+      "moves": "the slip peels on 'peeled'",
+      "change": "payoff of the idea",
+      "start": 25.2,
+      "end": 27.466666666666665,
+      "firstWord": 76,
+      "lastWord": 82
+    },
+    {
+      "id": "s10",
+      "words": "But the first time 3M sold them, in four cities, they flopped.",
+      "draw": "A shop counter with a pyramid of small boxes; a shopper walks past without looking",
+      "moves": "shopper crosses; on 'flopped' the top box tips over",
+      "change": "the loop",
+      "start": 27.466666666666665,
+      "end": 31.333333333333332,
+      "firstWord": 83,
+      "lastWord": 94
+    },
+    {
+      "id": "s11",
+      "words": "They were called Press 'n Peel.",
+      "draw": "Insert: one box, the label PRESS 'N PEEL",
+      "moves": "slow push",
+      "change": "insert",
+      "start": 31.333333333333332,
+      "end": 33.46666666666667,
+      "firstWord": 95,
+      "lastWord": 100
+    },
+    {
+      "id": "s12",
+      "words": "In nineteen eighty, they came back as Post-it Notes.",
+      "draw": "The plain wall: yellow notes bloom across it, one after another",
+      "moves": "notes land one by one",
+      "change": "scale: one note to many",
+      "start": 33.46666666666667,
+      "end": 36.1,
+      "firstWord": 101,
+      "lastWord": 109
+    },
+    {
+      "id": "s13",
+      "words": "He was trying to make glue that never lets go.",
+      "draw": "Back to the lab: Silver presses the blocks together again",
+      "moves": "push",
+      "change": "callback",
+      "start": 36.1,
+      "end": 38.96666666666667,
+      "firstWord": 110,
+      "lastWord": 119
+    },
+    {
+      "id": "s14",
+      "words": "It's on your fridge because it always does.",
+      "draw": "A kitchen: a cream fridge covered in yellow notes; one drops and is stuck back",
+      "moves": "a note falls and returns",
+      "change": "button",
+      "start": 38.96666666666667,
+      "end": 41.36666666666667,
+      "firstWord": 120,
+      "lastWord": 127
+    },
+    {
+      "id": "s15",
+      "words": "",
+      "seconds": 1.6,
+      "draw": "The fridge, the notes, still",
+      "moves": "slow push",
+      "change": "loop",
+      "start": 41.36666666666667,
+      "end": 42.96666666666667,
+      "firstWord": -1,
+      "lastWord": -1
+    }
+  ],
+  "endCard": false
+}

@@ -1,0 +1,491 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration": 26.233333333333334,
+  "words": [
+    {
+      "text": "Every",
+      "start": 0.12,
+      "end": 0.38
+    },
+    {
+      "text": "Saturday,",
+      "start": 0.38,
+      "end": 0.8
+    },
+    {
+      "text": "Otto",
+      "start": 1.04,
+      "end": 1.18
+    },
+    {
+      "text": "buys",
+      "start": 1.18,
+      "end": 1.48
+    },
+    {
+      "text": "one",
+      "start": 1.48,
+      "end": 1.86
+    },
+    {
+      "text": "birthday",
+      "start": 1.86,
+      "end": 2.3
+    },
+    {
+      "text": "candle.",
+      "start": 2.3,
+      "end": 2.8
+    },
+    {
+      "text": "Just",
+      "start": 3.22,
+      "end": 3.36
+    },
+    {
+      "text": "one.",
+      "start": 3.36,
+      "end": 3.7
+    },
+    {
+      "text": "The",
+      "start": 4.62,
+      "end": 4.78
+    },
+    {
+      "text": "baker",
+      "start": 4.78,
+      "end": 5.06
+    },
+    {
+      "text": "has",
+      "start": 5.06,
+      "end": 5.34
+    },
+    {
+      "text": "never",
+      "start": 5.34,
+      "end": 5.62
+    },
+    {
+      "text": "asked",
+      "start": 5.62,
+      "end": 6.02
+    },
+    {
+      "text": "who",
+      "start": 6.02,
+      "end": 6.22
+    },
+    {
+      "text": "it's",
+      "start": 6.22,
+      "end": 6.44
+    },
+    {
+      "text": "for.",
+      "start": 6.44,
+      "end": 6.7
+    },
+    {
+      "text": "She",
+      "start": 7,
+      "end": 7.12
+    },
+    {
+      "text": "just",
+      "start": 7.12,
+      "end": 7.36
+    },
+    {
+      "text": "rings",
+      "start": 7.36,
+      "end": 7.54
+    },
+    {
+      "text": "it",
+      "start": 7.54,
+      "end": 7.74
+    },
+    {
+      "text": "up.",
+      "start": 7.74,
+      "end": 7.98
+    },
+    {
+      "text": "Forty",
+      "start": 7.98,
+      "end": 8.826
+    },
+    {
+      "text": "cents.",
+      "start": 8.9,
+      "end": 9.18
+    },
+    {
+      "text": "Today,",
+      "start": 9.58,
+      "end": 9.92
+    },
+    {
+      "text": "Otto",
+      "start": 10.64,
+      "end": 10.82
+    },
+    {
+      "text": "asks",
+      "start": 10.82,
+      "end": 11.08
+    },
+    {
+      "text": "for",
+      "start": 11.08,
+      "end": 11.3
+    },
+    {
+      "text": "two.",
+      "start": 11.3,
+      "end": 11.56
+    },
+    {
+      "text": "Whose",
+      "start": 11.94,
+      "end": 12.444
+    },
+    {
+      "text": "birthday?",
+      "start": 12.488,
+      "end": 13.143
+    },
+    {
+      "text": "Otto",
+      "start": 14.07,
+      "end": 14.29
+    },
+    {
+      "text": "doesn't",
+      "start": 14.29,
+      "end": 14.61
+    },
+    {
+      "text": "explain.",
+      "start": 14.61,
+      "end": 14.99
+    },
+    {
+      "text": "He",
+      "start": 15.43,
+      "end": 15.55
+    },
+    {
+      "text": "never",
+      "start": 15.55,
+      "end": 15.77
+    },
+    {
+      "text": "does.",
+      "start": 15.77,
+      "end": 16.03
+    },
+    {
+      "text": "At",
+      "start": 16.55,
+      "end": 16.79
+    },
+    {
+      "text": "home,",
+      "start": 16.79,
+      "end": 17.11
+    },
+    {
+      "text": "his",
+      "start": 17.31,
+      "end": 17.43
+    },
+    {
+      "text": "cactus",
+      "start": 17.43,
+      "end": 17.75
+    },
+    {
+      "text": "gets",
+      "start": 17.75,
+      "end": 17.99
+    },
+    {
+      "text": "one",
+      "start": 17.99,
+      "end": 18.27
+    },
+    {
+      "text": "candle",
+      "start": 18.27,
+      "end": 18.61
+    },
+    {
+      "text": "every",
+      "start": 18.61,
+      "end": 18.91
+    },
+    {
+      "text": "Saturday.",
+      "start": 18.91,
+      "end": 19.33
+    },
+    {
+      "text": "This",
+      "start": 19.99,
+      "end": 20.23
+    },
+    {
+      "text": "week,",
+      "start": 20.23,
+      "end": 20.47
+    },
+    {
+      "text": "a",
+      "start": 20.49,
+      "end": 20.59
+    },
+    {
+      "text": "small",
+      "start": 20.59,
+      "end": 20.91
+    },
+    {
+      "text": "cactus",
+      "start": 20.91,
+      "end": 21.37
+    },
+    {
+      "text": "grew",
+      "start": 21.37,
+      "end": 21.63
+    },
+    {
+      "text": "out",
+      "start": 21.63,
+      "end": 21.77
+    },
+    {
+      "text": "of",
+      "start": 21.77,
+      "end": 21.85
+    },
+    {
+      "text": "the",
+      "start": 21.85,
+      "end": 21.95
+    },
+    {
+      "text": "side.",
+      "start": 21.95,
+      "end": 22.29
+    },
+    {
+      "text": "So",
+      "start": 22.89,
+      "end": 23.13
+    },
+    {
+      "text": "it",
+      "start": 23.13,
+      "end": 23.25
+    },
+    {
+      "text": "gets",
+      "start": 23.25,
+      "end": 23.41
+    },
+    {
+      "text": "one",
+      "start": 23.41,
+      "end": 23.83
+    },
+    {
+      "text": "too.",
+      "start": 23.83,
+      "end": 24.24
+    }
+  ],
+  "lines": [
+    {
+      "text": "Every Saturday, Otto buys one birthday candle.",
+      "start": 0.12,
+      "end": 2.8
+    },
+    {
+      "text": "Just one.",
+      "start": 3.22,
+      "end": 3.7
+    },
+    {
+      "text": "The baker has never asked who it's for.",
+      "start": 4.62,
+      "end": 6.7
+    },
+    {
+      "text": "She just rings it up. Forty cents.",
+      "start": 7,
+      "end": 9.18
+    },
+    {
+      "text": "Today, Otto asks for two.",
+      "start": 9.58,
+      "end": 11.56
+    },
+    {
+      "text": "Whose birthday?",
+      "start": 11.94,
+      "end": 13.143,
+      "speaker": "baker"
+    },
+    {
+      "text": "Otto doesn't explain. He never does.",
+      "start": 14.07,
+      "end": 16.03
+    },
+    {
+      "text": "At home, his cactus gets one candle every Saturday.",
+      "start": 16.55,
+      "end": 19.33
+    },
+    {
+      "text": "This week, a small cactus grew out of the side.",
+      "start": 19.99,
+      "end": 22.29
+    },
+    {
+      "text": "So it gets one too.",
+      "start": 22.89,
+      "end": 24.24
+    }
+  ],
+  "shots": [
+    {
+      "id": "s01",
+      "words": "Every Saturday, Otto buys one birthday candle.",
+      "draw": "Bakery counter, over Otto's shoulder: one striped birthday candle held up big in the foreground, Mae the baker behind the counter, a cake stand and a sign 'CANDLES 40c'",
+      "moves": "snap zoom on frame 0, slow push",
+      "change": "hook",
+      "start": 0,
+      "end": 3.1,
+      "firstWord": 0,
+      "lastWord": 6
+    },
+    {
+      "id": "s02",
+      "words": "Just one.",
+      "draw": "Insert, top-down: the empty counter, one candle laid on it, a coin",
+      "moves": "the candle rolls a little and stops",
+      "change": "insert",
+      "start": 3.1,
+      "end": 4.5,
+      "firstWord": 7,
+      "lastWord": 8
+    },
+    {
+      "id": "s03",
+      "words": "The baker has never asked who it's for.",
+      "draw": "Mae MCU behind the counter, flat face, eyes on the candle then on Otto",
+      "moves": "slow push, a side-eye",
+      "change": "reaction",
+      "start": 4.5,
+      "end": 6.866666666666666,
+      "firstWord": 9,
+      "lastWord": 16
+    },
+    {
+      "id": "s04",
+      "words": "She just rings it up. Forty cents.",
+      "draw": "Insert: the old till, its window flips to 0.40; her finger presses a key",
+      "moves": "punch-in on 'Forty'",
+      "change": "insert",
+      "start": 6.866666666666666,
+      "end": 9.466666666666667,
+      "firstWord": 17,
+      "lastWord": 23
+    },
+    {
+      "id": "s05",
+      "words": "Today, Otto asks for two.",
+      "draw": "Wide of the bakery: Otto at the counter holds up two fingers... (pose point) two candles now on the counter",
+      "moves": "punch-in on 'two'",
+      "change": "turn",
+      "start": 9.466666666666667,
+      "end": 11.833333333333334,
+      "firstWord": 24,
+      "lastWord": 28
+    },
+    {
+      "id": "s06",
+      "words": "Whose birthday?",
+      "draw": "Mae close, eyes narrowed, the handwritten caption 'Whose birthday?'",
+      "moves": "locked, a slow blink",
+      "change": "reaction close-up",
+      "start": 11.833333333333334,
+      "end": 13.966666666666667,
+      "firstWord": 29,
+      "lastWord": 30
+    },
+    {
+      "id": "s07",
+      "words": "Otto doesn't explain. He never does.",
+      "draw": "Otto close, front, deadpan, a two-drawing blink",
+      "moves": "push",
+      "change": "reverse CU",
+      "start": 13.966666666666667,
+      "end": 16.433333333333334,
+      "firstWord": 31,
+      "lastWord": 36
+    },
+    {
+      "id": "s08",
+      "words": "At home, his cactus gets one candle every Saturday.",
+      "draw": "Otto's windowsill at home: a cactus in a clay pot with one lit birthday candle stuck in the soil",
+      "moves": "flame flickers, slow push",
+      "change": "new place: home",
+      "start": 16.433333333333334,
+      "end": 19.866666666666667,
+      "firstWord": 37,
+      "lastWord": 45
+    },
+    {
+      "id": "s09",
+      "words": "This week, a small cactus grew out of the side.",
+      "draw": "Insert: a tiny cactus pup bulging out of the big one's side",
+      "moves": "punch-in on 'small'",
+      "change": "insert, the reveal",
+      "start": 19.866666666666667,
+      "end": 22.766666666666666,
+      "firstWord": 46,
+      "lastWord": 55
+    },
+    {
+      "id": "s10",
+      "words": "So it gets one too.",
+      "draw": "Both cacti, each with a lit candle; Otto's head rises into frame below, watching",
+      "moves": "locked, flames flicker",
+      "change": "payoff",
+      "start": 22.766666666666666,
+      "end": 24.433333333333334,
+      "firstWord": 56,
+      "lastWord": 60
+    },
+    {
+      "id": "s11",
+      "words": "",
+      "seconds": 1.8,
+      "draw": "Button: Otto at the windowsill, deadpan, both flames flicker; a slow blink",
+      "moves": "locked",
+      "change": "loop",
+      "start": 24.433333333333334,
+      "end": 26.233333333333334,
+      "firstWord": -1,
+      "lastWord": -1
+    }
+  ],
+  "endCard": false
+}

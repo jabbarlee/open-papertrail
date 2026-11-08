@@ -1,0 +1,42 @@
+{
+  "id": "flat-grain",
+  "name": "Flat Grain",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "minSeconds": 16,
+    "maxSeconds": 35
+  },
+  "voice": {
+    "provider": "auto",
+    "voiceId": "fern",
+    "temperature": 1.0,
+    "takes": 3,
+    "cut": "never",
+    "minClarity": 0.95,
+    "kokoro": {
+      "voiceId": "af_bella",
+      "speed": 1.0
+    },
+    "speed": 0.92
+  },
+  "pace": {
+    "wordsPerSecond": 3.5,
+    "linePause": 0.3
+  },
+  "tail": {
+    "endCardSeconds": 0,
+    "noEndCardSeconds": 1.4
+  },
+  "cutLeadSeconds": 0.1,
+  "hookMechanics": [
+    "felt-question",
+    "flip"
+  ],
+  "hashtags": [
+    "relatable",
+    "animation"
+  ],
+  "musicBed": false
+}

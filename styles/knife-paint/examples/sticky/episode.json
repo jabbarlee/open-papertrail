@@ -1,0 +1,23 @@
+{
+  "format": "knife-paint",
+  "slug": "sticky",
+  "date": "2026-11-08",
+  "title": "The Weak Glue",
+  "hook": "In nineteen sixty-eight, a 3M chemist tried to make an extremely strong glue, and failed.",
+  "altHooks": [],
+  "caption": "what's stuck to your fridge right now?",
+  "endCard": false,
+  "gates": {
+    "pitch": "2026-11-08T15:27:12.224Z example: pitched, facts checked, kept by the critic pass",
+    "script": "2026-11-08T15:34:49.887Z example: script read aloud, facts checked in sources.json",
+    "look": "2026-11-08T15:34:50.286Z example: stills checked against DESIGN.md"
+  },
+  "onScreenHook": "",
+  "hookMechanic": "reversal",
+  "visualHook": "A painted bottle labelled ADHESIVE on a 1960s lab bench, a chemist pressing two wooden blocks together",
+  "hashtags": [
+    "history",
+    "inventions"
+  ],
+  "sendTo": "the friend whose fridge is all post-its"
+}

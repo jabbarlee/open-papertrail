@@ -1,0 +1,27 @@
+node_modules/
+.env
+.DS_Store
+.cache/
+voice-server/.venv/
+voice-server/__pycache__/
+voices/_candidates/
+
+# Your own work: episode sources stay in git if you want them; renders never do.
+styles/*/episodes/*/build/
+styles/*/episodes/*/segments/
+styles/*/episodes/*/stills/
+styles/*/episodes/*/preview/
+styles/*/episodes/*/*.mp4
+styles/*/episodes/*/*.mp3
+styles/*/episodes/*/*.wav
+styles/*/episodes/*/strip.jpg
+styles/*/episodes/*/qa.json
+styles/*/examples/*/build/
+styles/*/examples/*/segments/
+styles/*/examples/*/stills/
+styles/*/examples/*/preview/
+styles/*/examples/*/*.mp4
+styles/*/examples/*/*.wav
+styles/*/examples/*/strip.jpg
+styles/*/look/**/build/
+styles/*/look/**/stills/

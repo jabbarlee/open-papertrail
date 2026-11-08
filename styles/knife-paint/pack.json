@@ -1,0 +1,43 @@
+{
+  "id": "knife-paint",
+  "name": "Knife Paint",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "minSeconds": 20,
+    "maxSeconds": 55
+  },
+  "voice": {
+    "provider": "auto",
+    "voiceId": "archer",
+    "temperature": 0.9,
+    "takes": 3,
+    "cut": "lines",
+    "pieceWords": 60,
+    "kokoro": {
+      "voiceId": "am_michael",
+      "speed": 1.0
+    }
+  },
+  "pace": {
+    "wordsPerSecond": 2.6,
+    "linePause": 0.3,
+    "readCharsPerSecond": 14
+  },
+  "tail": {
+    "endCardSeconds": 0,
+    "noEndCardSeconds": 1.6
+  },
+  "cutLeadSeconds": 0.12,
+  "hookMechanics": [
+    "shocking-number",
+    "mystery",
+    "reversal"
+  ],
+  "hashtags": [
+    "history",
+    "animation"
+  ],
+  "musicBed": false
+}
