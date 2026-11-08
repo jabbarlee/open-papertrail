@@ -16,7 +16,7 @@
     "cut": "lines",
     "kokoro": {
       "voiceId": "af_sarah",
-      "speed": 1.05
+      "speed": 1.12
     },
     "pieceWords": 90
   },
