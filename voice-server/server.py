@@ -7,7 +7,7 @@ POST /tts     {"text", "voice", "seed"?, "temperature"?}  -> audio/wav (24 kHz m
 GET  /health  -> {"ok", "model", "voices"} once the model is loaded
 GET  /voices  -> {"voices": [...]}
 
-Run it with `npm run voice:up` (voice-server/run.sh). Model: $QWEN_MODEL, else chosen by run.sh from your RAM.
+Run it with `npm run voice:up` (voice-server/run.sh). Model: $QWEN_MODEL (default: the 8-bit 1.7B Base model, set in run.sh).
 """
 import io
 import os
